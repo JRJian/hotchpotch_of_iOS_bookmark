@@ -43,6 +43,8 @@ iOS-github开源优秀项目
 - [MBProgressHUD-指示器](https://github.com/jdg/MBProgressHUD)
 - [MJRefresh-快速集成上拉&下拉](https://github.com/CoderMJLee/MJRefresh)
 
+`如果你想找oc开源排行，请在Search一栏输入 stars:>1000(0~MAX),左侧栏目Language选择:Objective-C`
+
 ---
 *以上地址排名不分先后，github的开源优秀项目还有很多可以自行搜索*
 
