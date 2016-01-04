@@ -27,6 +27,12 @@
 - [iOSBlogCN-来自tangqiaoboy](https://github.com/tangqiaoboy/iOSBlogCN)
 - [简书,search:iOS](http://jianchu.com)
 
+###个人觉得比较优秀的博客
+- [田伟宇/Casa Taloyum](http://casatwy.com)
+- [刘坤](http://blog.cnbluebox.com)
+- [郭曜源/ibireme](http://blog.ibireme.com)
+- [孙源/sunny](http://blog.sunnyxx.com)
+
 iOS-github开源优秀项目
 ====================
 - [AFNetworking-令人愉快的网络开发框架(iOS/Mac)](https://github.com/AFNetworking/AFNetworking)
