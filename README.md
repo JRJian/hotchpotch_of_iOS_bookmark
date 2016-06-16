@@ -35,6 +35,7 @@
 - [郭曜源/ibireme](http://blog.ibireme.com)
 - [孙源/sunny](http://blog.sunnyxx.com)
 - [破船之家](http://beyondvincent.com)
+- [蓝晨钰/lancy](http://gracelancy.com)
 
 iOS-github开源优秀项目
 ====================
@@ -49,5 +50,5 @@ iOS-github开源优秀项目
 `如果你想找oc开源排行，请在Search一栏输入 stars:>1000(0~MAX),左侧栏目Language选择:Objective-C`
 
 ---
-*以上地址排名不分先后，github的开源优秀项目还有很多可以自行搜索*
+*以上地址排名不分先后，github的开源优秀项目还有很多可以自行搜索，并且优秀博客其实还有很多，这里只是做了一些提炼*
 
