@@ -21,7 +21,7 @@
 ====================
 - [Stackoverflow-栈溢出,个人感觉最牛逼的问答社区](http://stackoverflow.com)
 - [CocoaChina-中文开发者社区](http://www.cocoachina.com)
-- [code4app-开源代码社区(最近出了新版本)](http://code4app.com/portal.php)
+- [code4app-开源代码社区(最近出了新版本)](http://code4app.com)
 
 中文iOS/Mac开发博客列表
 ====================
