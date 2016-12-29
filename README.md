@@ -48,7 +48,7 @@ iOS-github开源优秀项目
 - [MBProgressHUD-指示器](https://github.com/jdg/MBProgressHUD)
 - [MJRefresh-快速集成上拉&下拉](https://github.com/CoderMJLee/MJRefresh)
 - [FMDB-强大的SQLite数据库封装](https://github.com/ccgus/fmdb)
-- [AsyncDisplayKit-让你的App保持交互流畅](https://github.com/facebook/AsyncDisplayKit)
+- [AsyncDisplayKit-让你的App保持流畅](https://github.com/facebook/AsyncDisplayKit)
 
 `如果你想找oc开源排行，请在Search一栏输入 stars:>1000(0~MAX),左侧栏目Language选择:Objective-C`
 
