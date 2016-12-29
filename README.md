@@ -36,6 +36,7 @@
 - [孙源/sunny](http://blog.sunnyxx.com)
 - [破船之家](http://beyondvincent.com)
 - [蓝晨钰/lancy](http://gracelancy.com)
+- [杨骑滔/KittenYang](http://kittenyang.com)
 
 iOS-github开源优秀项目
 ====================
