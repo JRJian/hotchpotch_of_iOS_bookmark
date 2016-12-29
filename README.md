@@ -37,6 +37,7 @@
 - [破船之家](http://beyondvincent.com)
 - [蓝晨钰/lancy](http://gracelancy.com)
 - [杨骑滔/KittenYang](http://kittenyang.com)
+- [吕文翰/JohnLui](https://lvwenhan.com)
 
 iOS-github开源优秀项目
 ====================
