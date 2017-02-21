@@ -38,7 +38,6 @@
 - [蓝晨钰/lancy](http://gracelancy.com)
 - [杨骑滔/KittenYang](http://kittenyang.com)
 - [吕文翰/JohnLui](https://lvwenhan.com)
-- [戴铭/ming1016](http://www.starming.com)
 
 iOS-github开源优秀项目
 ====================
