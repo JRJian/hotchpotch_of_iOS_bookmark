@@ -38,6 +38,7 @@
 - [蓝晨钰/lancy](http://gracelancy.com)
 - [杨骑滔/KittenYang](http://kittenyang.com)
 - [吕文翰/JohnLui](https://lvwenhan.com)
+- [雷纯锋](http://blog.leichunfeng.com/blog/archives/)
 
 iOS-github开源优秀项目
 ====================
