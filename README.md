@@ -40,6 +40,7 @@
 - [吕文翰/JohnLui](https://lvwenhan.com)
 - [雷纯锋](http://blog.leichunfeng.com/blog/archives/)
 - [webfrog](https://blog.nswebfrog.com)
+- [汪海洋](https://blog.callmewhy.com)
 
 iOS-github开源优秀项目
 ====================
